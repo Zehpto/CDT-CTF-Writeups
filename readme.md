@@ -18,7 +18,7 @@ Challenges
 ### Recon
 * [Comment Crew](Recon/Comment_Crew)
 * [Email the CEO](Recon/Email_the_CEO)
-* [DIG 4️⃣ Gold](Recon/DIG_4_Gold)
+* [DIG 4️⃣ Gold](Recon/Dig_4_Gold)
 * [T1me Traveller](Recon/T1me_Traveller)
 * [A Shared Experience](Recon/A_Shared_Experience)
 
