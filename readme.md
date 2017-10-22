@@ -5,15 +5,15 @@ A Willy Wonka themed CTF for the first white team rotation of CDT.
 Challenges
 ----------
 ### Crypto
-* [Looking to diversify?](Crypto/Looking to diversify?)
-* [Factory Basement](Crypto/Factory Basement)
-* [There goes Augustus](Crypto/There goes Augustus)
-* [Down the river we go](Crypto/Down the river we go)
-* [How can you still be hungry?](Crypto/How can you still be hungry?)
+* [Looking to diversify?](Crypto/Looking_to_diversify)
+* [Factory Basement](Crypto/Factory_Basement)
+* [There goes Augustus](Crypto/There_goes_Augustus)
+* [Down the river we go](Crypto/Down_the_river_we_go)
+* [How can you still be hungry?](Crypto/How_can_you_still_be_hungry)
 
 ### Forensics
-* [Wonka Barz](Forensics/Wonka Barz)
-* [We Will Rock You](Forensics/We Will Rock You)
+* [Wonka Barz](Forensics/Wonka_Barz)
+* [We Will Rock You](Forensics/We_Will_Rock_You)
 
 ### Recon
 * [Comment Crew](Recon/Comment_Crew)
@@ -23,13 +23,13 @@ Challenges
 * [A Shared Experience](Recon/A_Shared_Experience)
 
 ### Reversing
-* [Got Strings?](Reversing/Got Strings?)
-* [Null bytes ahead.](Null bytes ahead.)
-* [Memory mayhem](Reversing/Memory mayhem)
+* [Got Strings?](Reversing/Got_Strings)
+* [Null bytes ahead.](Null_bytes_ahead)
+* [Memory mayhem](Reversing/Memory_mayhem)
 
 ### Trivia
-* [Trivia 1](Trivia/Trivia 1)
-* [Trivia 2](Trivia/Trivia 2)
-* [Trivia 3](Trivia/Trivia 3)
-* [Trivia 4](Trivia/Trivia 4)
-* [Trivia 5](Trivia/Trivia 5)
+* [Trivia 1](Trivia/Trivia_1)
+* [Trivia 2](Trivia/Trivia_2)
+* [Trivia 3](Trivia/Trivia_3)
+* [Trivia 4](Trivia/Trivia_4)
+* [Trivia 5](Trivia/Trivia_5)
