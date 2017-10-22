@@ -6,7 +6,7 @@
 Solution
 --------
 
-This challenge requires you to do a WHOIS lookup. This is tricky because not all WHOIS lookup tools support the .me TLD.
+This challenge requires you to do a WHOIS lookup. You can use a site such as [Web Solutions](https://web-solutions.eu/whois-domain-me.htm) This is tricky because not all WHOIS lookup tools support the .me TLD. 
 
 
 ![](./whois.png)
