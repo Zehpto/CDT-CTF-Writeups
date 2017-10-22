@@ -16,8 +16,8 @@ Challenges
 * [We Will Rock You](Forensics/We Will Rock You)
 
 ### Recon
-* [Comment_Crew](Recon/Comment_Crew)
-* [Email the CEO](Recon/Email the CEO)
+* [Comment Crew](Recon/Comment_Crew)
+* [Email the CEO](Recon/Email_the_CEO)
 * [DIG 4️⃣ Gold](Recon/DIG 4️⃣ Gold)
 * [T1me Traveller](Recon/T1me Traveller)
 * [A Shared Experience](Recon/A Shared Experience)
