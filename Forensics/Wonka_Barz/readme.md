@@ -17,7 +17,7 @@ After running the command, binwalk will extra all jpegs present in the file and 
 
 The first element is the image of the Wonka bar while the second element is the hidden flag.
 
-![](./extraction.jpg)
+![](./flag.jpg)
 
 Flag: 'GoldenTICKET{w0nka_barz_bro_67!}'
 
