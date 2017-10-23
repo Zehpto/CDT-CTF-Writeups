@@ -7,11 +7,11 @@ Solution
 
 You are given a [zip](wewillrockyou.zip) containing an encrypted flag. The flag can be recovered by bruteforcing the key on the zip archive. The title "We Will **Rock You**" is a hint that the zip can be bruteforced with the rockyou dictionary.
 
-![](./zipcrack.png)
+![](./zipcrack.PNG)
 
 After learning the password is **__purple__** we can then use it to extract the flag.
 
-![](./extraction.png)
+![](./extraction.PNG)
 
 The first element is the image of the Wonka bar while the second element is the hidden flag.
 
