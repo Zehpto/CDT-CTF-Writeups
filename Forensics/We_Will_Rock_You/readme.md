@@ -9,7 +9,7 @@ You are given a [zip](wewillrockyou.zip) containing an encrypted flag. The flag 
 
 ![](./zipcrack.png)
 
-After learning the password is _purple_ we can then use it to extract the flag.
+After learning the password is *_purple_* we can then use it to extract the flag.
 
 ![](./extraction.png)
 
