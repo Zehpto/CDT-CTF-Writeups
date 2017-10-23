@@ -11,7 +11,7 @@ You are given a [zip](wewillrockyou.zip) containing an encrypted flag. The flag 
 
 After learning the password is **__purple__** we can then use it to extract the flag.
 
-![](./extraction.PNG)
+![](./unzip.PNG)
 
 The first element is the image of the Wonka bar while the second element is the hidden flag.
 
