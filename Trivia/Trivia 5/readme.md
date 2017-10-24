@@ -1,14 +1,26 @@
-# Comment Crew (Recon - 25 Points)
+# Trivia 5 (Trivia - 25 Points)
 
-> Find the flag.
+> A comma delimited list of ord(names) of the kids names in order the tickets were found. Omit all spaces.
 
 Solution
 --------
 
-This challenge pretty straight forward. There is a comment in the homepage's HTML. No hints were provided for the challenge since the title "Comment Crew" is a dead giveaway, both referencing HTML 'comments' and the name APT1 was given for their use of HTML comments.
+'''
+ticketHolders = "AugustusGloop,VioletBeauregarde,VerucaSalt,MikeTeavee,CharlieBucket"
+flagStr = ""
 
 
-![](./page_source.png)
+for letter in ticketHolders:
+	if letter != ',':
+		flagStr += str(ord(letter))
+	else:
+		flagStr += ','
 
-Flag: 'GoldenTICKET{1_lov3_comm3nts666^}'
+print("GoldenTICKET{" + flagStr +"}")
+'''
+
+
+![](./flag.png)
+
+Flag: 'GoldenTICKET{6511710311711511611711571108111111112,86105111108101116661019711711410110397114100101,8610111411799978397108116,771051071018410197118101101,67104971141081051016611799107101116}'
 
