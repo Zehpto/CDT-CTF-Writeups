@@ -7,8 +7,11 @@ Solution
 
 You are given an [image](wonka_bar.jpg) containing a flag. The flag can be recovered by file carving using a tool such a [binwalk](https://github.com/devttys0/binwalk) or alternatively using a hex editor and looking at the structure of the provided jpeg. Essentially, there is a hidden jpeg appended to the image of the Wonka bar.
 
-Using "binwalk --dd='jpeg:jpg' wonka_bar.jpg" you can carve the flag out.
+Using the following command the flag can be carved out:
 
+```
+binwalk --dd='jpeg:jpg' wonka_bar.jpg
+```
 ![](./binwalk.png)
 
 After running the command, binwalk will extra all jpegs present in the file and place them into a directory will all of the extracted elements.
