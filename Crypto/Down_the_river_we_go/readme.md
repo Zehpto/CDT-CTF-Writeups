@@ -1,4 +1,5 @@
 # Down the river we go (Crypto - 200 Points)
+## Challenge Courtesy of [Greg Daneault](https://github.com/grdaneault)
 
 > THerES no eARtHly WAY of KNoWINg wHicH DirEcTION THeY ArE gOINg THeREs nO KNOwING WHERE tHEyre ROwiNg OR WHICh wAy THE riVERs FLOwinG is iT RAInINg is IT sNowING IS a HUrrICaNE ABLOWiNg nOT a SPECk oF lIghT iS sHOWIng So THe dANGEr MUst bE GroWING ARe ThE FIRes Of HELL AgLOwiNg IS THe grISly ReAPeR mOwinG yES The DAnGeR mUSt BE GrOWiNG
 

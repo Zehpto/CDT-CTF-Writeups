@@ -1,4 +1,5 @@
 # There goes Augustus (Crypto - 100 Points)
+## Challenge Courtesy of [Greg Daneault](https://github.com/grdaneault)
 
 > TlowvmGRXPVG{hvxivg_rmtivwrvmg_1_lu_64}
 

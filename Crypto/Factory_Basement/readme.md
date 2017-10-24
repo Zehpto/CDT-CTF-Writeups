@@ -1,4 +1,5 @@
 # Factory Basement (Crypto - 50 Points)
+## Challenge Courtesy of [Greg Daneault](https://github.com/grdaneault)
 
 > R29sZGVuVElDS0VUe2RvbnRfc3RlYWxfdGhlX2Zpenp5X2xpZnRpbmdfZHJpbmtzfQ==
 

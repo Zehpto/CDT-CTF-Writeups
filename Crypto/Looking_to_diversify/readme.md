@@ -1,4 +1,5 @@
 # Looking to diversify? (Crypto - 50 Points)
+## Challenge Courtesy of [Greg Daneault](https://github.com/grdaneault)
 
 > JroghqWLFNHW{wkhuhv_qr_vdodg_khuh}
 
