@@ -1,4 +1,5 @@
 # How can you still be hungry? (Crypto - 300 Points)
+## Challenge Courtesy of [Greg Daneault](https://github.com/grdaneault)
 
 > I29hATEfEToqz2E0v3wownEuzTUpC29fAE95ACMuBmE0C3wlBCIuBDQewCIux2Eqy25pC2Iox3MoxmI9
 > Format: GoldenTicket{xxxxxxxx}
@@ -6,20 +7,26 @@
 Solution
 --------
 
-This problem uses the baconian cipher. Since the cipher uses only 'A' or 'B' we know either the captial letters are 'A's or 'B's. In the challenge, the capitals were 'A's. We can then convert the ciphertext to it's A/B binary form.
+This problem asks us if we are hungry still 🤔
+If we remember, the flag for "There goes Augustus" was:
+> GoldenTICKET{secret_ingredient_1_of_64}
 
+This appears to be think link for satisfying my hunger. As we know Augustus was solved by using the atbash cipher. The flag also appears to a reference to base64.
+Taking the standard Base64 alphabet of:
 ```
-AABBAA BB BAABABB AAA BB AABAAAB BABBA ABBABAAAA AABA ABA BAAAB AABAAB BA AAABAAA AAAAA BAABBB AABBAB AA AAAAB BAB AAA BBAAAB AAABBBA BB BA AAABAAB BB AA BABBAAA AA B AABBAABAA AAAAABAB BAA B AAAAB BA BABBA BA BAAAABB AB AAB BAAAAB AABB BA ABBAAAA AAB ABA AAABB AB AAAA ABAABBAB AA AAB BBAABB ABAABA BABBBA BAA ABB AABABA BAAB AA ABAABAA
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
 ```
 
-From here, an online decoder such as [Rumkin](http://rumkin.com/tools/cipher/baconian.php) can be used.
+We run it through the atbash cipher, getting the result of:
+```
+ZYXWVUTSRQPONMLKJIHGFEDCBAzyxwvutsrqponmlkjihgfedcba0123456789+/=
+```
 
-![](./baconian_decode.png)
+From here we need to use this new string as a custom Base64 alphabet for the ciphertext provided.
 
-We then get the following:
-> GOL D ENTIC KETBACON AN DCHO COLA TE AWINNIN GCO MB IN ATIONFO RSURE
+![](./cust_b64_decode.png)
 
-For the last step, the flag needs to be formatted.
+We then arrive at the flag!
 
 Flag: 'GoldenTicket{weve_had_one_yes_but_what_about_second_dessert}'
 
