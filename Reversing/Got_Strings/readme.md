@@ -111,5 +111,6 @@ Valid flag. You get the golden ticket!
 ```
 
 Alright! Solved the challenge.
+
 Flag: 'GoldenTICKET{y0u_c4ll_7h15_53cur3?}'
 
