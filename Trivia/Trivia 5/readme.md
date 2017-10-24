@@ -5,7 +5,7 @@
 Solution
 --------
 
-'''
+```
 ticketHolders = "AugustusGloop,VioletBeauregarde,VerucaSalt,MikeTeavee,CharlieBucket"
 flagStr = ""
 
@@ -17,7 +17,7 @@ for letter in ticketHolders:
 		flagStr += ','
 
 print("GoldenTICKET{" + flagStr +"}")
-'''
+```
 
 
 ![](./flag.png)
